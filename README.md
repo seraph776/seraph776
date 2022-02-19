@@ -8,9 +8,9 @@
 
 ## About Me
 
-- 🙂 Pronouns: _El, Dei, Deus_
-- 🌱 I'm currently learning Javascript  
-- 👯 I’m looking to collaborate on Python Projects
+- :electron: Pronouns: _El, Elohim, El Shaddai_
+- 🌱 I'm currently learning _Everything_ 
+- 🤝 I’m looking to collaborate on Python Projects
 - 💬 Ask me about: Tutoring, Code Review, and Project Collaboration
 - 📫 You can reach me at [seraph776@gmail.com](mailto:seraph776@gmail.com)    
 - ⚡ Fun Fact: I love to draw and play chess! ♞
@@ -123,5 +123,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🤝
+- 🤝🙂
 -->
