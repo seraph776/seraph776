@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
 [![GitHub User's stars](https://img.shields.io/github/stars/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
 [![Twitter Follow](https://img.shields.io/twitter/follow/seraph776?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/seraph776)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow.com/r/14462728?logo=stackoverflow&style=for-the-badge)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow.com/r/14462728?logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users//seraph)
 [![Website](https://img.shields.io/website?label=Seraph76.com&logo=appveyor&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fseraph76.com%2F)](https://seraph76.com/)
 
 ## About Me
