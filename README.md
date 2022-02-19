@@ -4,8 +4,9 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
 [![Twitter Follow](https://img.shields.io/twitter/follow/seraph776?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/seraph776)
 [![Website](https://img.shields.io/website?label=Seraph76.com&logo=appveyor&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fseraph76.com%2F)](https://seraph76.com/)
+[![MIT](https://img.shields.io/badge/MIT-blue?&black&label=License&color=green&style=for-the-badge)](https://github.com/seraph776/seraph776/blob/main/LICENSE)
 
-
+  
 
 ## About Me
   I’m looking to collaborate on ...
