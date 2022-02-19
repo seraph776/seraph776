@@ -9,7 +9,6 @@
   
 
 ## About Me
-  I’m looking to collaborate on ...
 
 - 🙂 Pronouns: _El, Dei, Deus_
 - 🌱 I'm currently learning Javascript  
