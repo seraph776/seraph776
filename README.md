@@ -6,8 +6,12 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow.com/r/14462728?logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users//seraph)
 [![Website](https://img.shields.io/website?label=Seraph76.com&logo=appveyor&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fseraph76.com%2F)](https://seraph76.com/)
 
+<div align="center">
+
 ## About Me
 
+</div>  
+  
 - :electron: Pronouns: _El, Elohim, El Shaddai_
 - 🌱 I'm currently learning _Everything_ 
 - 🤝 I’m looking to collaborate on Python Projects
@@ -17,6 +21,7 @@
 
 I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scraping, social media mining, and data visualization using Python programming. I have a strong working knowledge of algorithms, data structures, object-oriented programming and cybersecurity concepts. I am an experienced problem-solver capable of working independently or in a team environment.<br> 
 
+<div align="center">
 
 ## Connect with me
 
@@ -41,8 +46,11 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
 
 
 
+  
 ## Languages and Tools
 
+
+  
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" height="30" width="30"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" height="30" width="30"/> </a>
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" height="30" width="30"/></a>
@@ -55,7 +63,7 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" height="30" width="30"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" height="30" width="30"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" height="30" width="30"/></a>
-
+ </div> 
 
 <div align="center">
   
