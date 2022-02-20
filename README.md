@@ -6,11 +6,11 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow.com/r/14462728?logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users//seraph)
 [![Website](https://img.shields.io/website?label=Seraph76.com&logo=appveyor&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fseraph76.com%2F)](https://seraph76.com/)
 
-<div align="center">
+
 
 ## About Me
 
-</div>  
+
   
 - :electron: Pronouns: _El, Elohim, El Shaddai_
 - 🌱 I'm currently learning _Everything_ 
