@@ -21,7 +21,7 @@
 
 I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scraping, social media mining, and data visualization using Python programming. I have a strong working knowledge of algorithms, data structures, object-oriented programming and cybersecurity concepts. I am an experienced problem-solver capable of working independently or in a team environment.<br> 
 
-<div align="center">
+
 
 ## Connect with me
 
@@ -65,7 +65,7 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" height="30" width="30"/></a>
  </div> 
 
-<div align="center">
+
   
 ## GitHub Stats
 
@@ -75,7 +75,7 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seraph776&theme=tokyonight)](https://github.com/seraph776/github-readme-streak-stats)
 [![Seraph776's github activity graph](https://activity-graph.herokuapp.com/graph?username=seraph776&theme=redical)](https://github.com/seraph776/github-readme-activity-graph)
 
-</div>
+
 <!-- OLD CODE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seraph776&exclude_repo=seraph776.github.io&langs_count=5&layout=compact&&title_color=fff&icon_color=6a9fb5&text_color=9f9f9f&bg_color=151515)](#)
