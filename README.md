@@ -56,6 +56,9 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" height="30" width="30"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" height="30" width="30"/></a>
 
+
+<div align="center">
+  
 ## GitHub Stats
 
 <div align="center">
