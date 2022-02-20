@@ -60,6 +60,7 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
 
 [![Seraph's GitHub stats](https://github-readme-stats.vercel.app/api?username=seraph776&count_private=true&title_color=fff&icon_color=6a9fb5&text_color=9f9f9f&bg_color=151515&show_icons=true)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seraph776&exclude_repo=seraph776.github.io&langs_count=5&layout=compact&&title_color=fff&icon_color=6a9fb5&text_color=9f9f9f&bg_color=151515)](#)
 
+[![Seraph776's github activity graph](https://activity-graph.herokuapp.com/graph?username=seraph776&theme=react-dark)](https://github.com/seraph776/github-readme-activity-graph)
 
 
 <!-- OLD CODE
