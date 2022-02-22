@@ -2,11 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
 [![GitHub User's stars](https://img.shields.io/github/stars/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
-[![Twitter Follow](https://img.shields.io/twitter/follow/seraph776?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/seraph776)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow.com/r/14462728?logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users//seraph)
-[![Website](https://img.shields.io/website?label=Seraph76.com&logo=appveyor&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fseraph76.com%2F)](https://seraph76.com/)
-
-
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/seraph776?color=orange&logo=reddit&logoColor=orange&style=for-the-badge)
 
 ## About Me
 
@@ -126,6 +123,11 @@ Which compels me to Learn something New every day. Some of my interests include:
 
 
 <!--
+
+[![Website](https://img.shields.io/website?label=Seraph76.com&logo=appveyor&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fseraph76.com%2F)](https://seraph76.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/seraph776?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/seraph776)
+
+
 **seraph776/seraph776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
