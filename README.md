@@ -9,7 +9,6 @@
 
 ## About Me
 
-
   
 - :electron: Pronouns: _El_
 - 🌱 I'm currently learning _Everything_ 
