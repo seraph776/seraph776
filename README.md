@@ -18,8 +18,9 @@
 - 📫 You can reach me at [seraph776@gmail.com](mailto:seraph776@gmail.com)    
 - ⚡ Fun Fact: I love to draw and play chess! ♞
 
+<!--
 I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scraping, social media mining, and data visualization using Python programming. I have a strong working knowledge of algorithms, data structures, object-oriented programming and cybersecurity concepts. I am an experienced problem-solver capable of working independently or in a team environment.<br> 
-
+-->
 
  ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
