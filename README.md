@@ -72,7 +72,7 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
 <div align="center">
 
 [![Seraph's GitHub stats](https://github-readme-stats.vercel.app/api?username=seraph776&count_private=true&title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40&show_icons=true)](#) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seraph776&theme=tokyonight)](https://github.com/seraph776/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seraph776&theme=tokyonight)](https://git.io/streak-stats)
 [![Seraph776's github activity graph](https://activity-graph.herokuapp.com/graph?username=seraph776&theme=redical)](https://github.com/seraph776/github-readme-activity-graph)
 
 
