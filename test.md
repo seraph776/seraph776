@@ -1,7 +1,7 @@
 # Title
 
 
-## Description 
+## ℹ️ Background  Info
 
 ## Purpose
 
@@ -9,7 +9,7 @@
 ## Built with
 - Python
 
-## Requirements
+## Libraries
 - Libraries used
 
 
