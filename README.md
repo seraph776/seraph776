@@ -7,7 +7,6 @@
 [![Website](https://img.shields.io/website?label=Seraph76.com&logo=appveyor&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fseraph76.com%2F)](#)
 
 
-
 ## About Me
 
   
