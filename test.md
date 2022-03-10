@@ -1,3 +1,11 @@
+
+![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/seraph776?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/seraph776/seraph776?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/seraph776?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/seraph776/seraph776?color=green&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/seraph776/seraph776?style=for-the-badge)
+
+
 # Title
 
 
@@ -6,10 +14,10 @@
 ## Purpose
 
 
-## Built with
+##  🛠️ Built with
 - Python
 
-## Libraries
+##  📚 Libraries
 - Libraries used
 
 
