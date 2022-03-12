@@ -3,11 +3,11 @@
 # Project Title
 
 
-![made-with-Python](https://img.shields.io/badge/Built%20with%20Python-blue?logo=Python&logoColor=white&labelColor=grey&style=for-the-badge)
+![made-with-Python](https://img.shields.io/badge/Python-blue?&logo=python&logoColor=white&labelColor=grey&label=Built%20with&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/seraph776?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/seraph776/seraph776?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/seraph776/seraph776?color=blue&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/seraph776/seraph776?color=yellow&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/seraph776?color=yellow&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/seraph776/seraph776?style=for-the-badge)
   
  
@@ -61,7 +61,22 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <h2 id="quickstart"> ⚡QuickStart </h2>
 
+1. Download [zip file](https://github.com/seraph776/XXXX/archive/refs/heads/main.zip)
+2. Extract zip files
+3. Create a [virtual environment](https://docs.python.org/3/tutorial/venv.html) from within the extracted zip file location:
+```
+python -m venv project-env
+```
 
+4. Activate virtual environment:
+```
+project-env\scripts\activate.bat
+```
+
+5. Run the application from within virtual environment:
+```
+python app\main.py
+```
 
 <h2 id="contribute">  🤝 Contribute </h2>
 
@@ -69,7 +84,9 @@ Contributions are Welcome! For instructions on how to contribute please read our
 
 <h2 id="contact"> 📫 Contact </h2>
 
-Seraph : seraph1001100@gmail.com
+If you have any questions or wish to collaborate please contact me
+
+- Seraph : seraph1001100@gmail.com
 
 
 <h2 id="license">  ⚖️ License</h2>
