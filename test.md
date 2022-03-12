@@ -16,10 +16,11 @@
   
 ### Sub-Title  
   
-[View Demo]() · [Report Bug](https://github.com/seraph776/README-Template/issues) · [Contact me](https://github.com/seraph776/CodeCrypt776#contact)  
+[View Demo]() · 🐛[Report Bug](https://github.com/seraph776/README-Template/issues) ·📫 [Contact me](https://github.com/seraph776/CodeCrypt776#contact)  
  
 Show your support and give this repo a ⭐ 
 
+  
 </div>
 
 
@@ -29,7 +30,7 @@ Show your support and give this repo a ⭐
   
 1. [Overview](https://github.com/seraph776/seraph776/blob/main/test.md#overview)
 2. [Requirements](https://github.com/seraph776/seraph776/blob/main/test.md#requirements)
-3. [Output](https://github.com/seraph776/seraph776/blob/main/test.md#output)
+3. [Screenshot](https://github.com/seraph776/seraph776/blob/main/test.md#screenshot)
 4. [Quick Start](https://github.com/seraph776/seraph776/blob/main/test.md#quickstart)
 5. [Contribute](https://github.com/seraph776/seraph776/blob/main/test.md#contribute)
 6. [Contact](https://github.com/seraph776/seraph776/blob/main/test.md#contact)
@@ -43,16 +44,11 @@ Show your support and give this repo a ⭐
 
 
 
-<h2 id="overview"> ℹ️ Overview </h2>
+<h2 id="overview"> 💡 Overview </h2>
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
   
-### 💡 Purpose
-
-- `Short Description `
-
-
 <h2 id="requirements"> ⚙️ Requires </h2>
 
 - `Python 3.0 +` 
@@ -60,7 +56,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ### 📚 Libraries
 - `Libraries used`
 
-<h2 id="output"> 📷 Output </h2>
+<h2 id="screenshot"> 📸 Screenshot </h2>
 
 
 <h2 id="quickstart"> ⚡QuickStart </h2>
