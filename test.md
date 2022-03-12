@@ -80,7 +80,7 @@ Seraph : seraph1001100@gmail.com
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/seraph776/TemperatureConverter/blob/main/LICENSE) file for details.
 
 
-<h2 id="acknowledgement">  📢 Acknowledgements </h2>
+<h2 id="acknowledgements">  📢 Acknowledgements </h2>
 
 - [Shields IO](https://shields.io/)
 - [Choose a License](https://choosealicense.com/licenses/mit/)
