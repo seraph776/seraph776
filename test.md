@@ -33,7 +33,7 @@ Show your support and give this repo a ⭐
 5. [Contribute](https://github.com/seraph776/seraph776/blob/main/test.md#contribute)
 6. [Contact](https://github.com/seraph776/seraph776/blob/main/test.md#contact)
 7. [License](https://github.com/seraph776/seraph776/blob/main/test.md#license)
-8. [Acknowledgements](https://github.com/seraph776/seraph776/blob/main/test.md#acknowlegdement)
+8. [Acknowledgements](https://github.com/seraph776/seraph776/blob/main/test.md#acknowlegdements)
    
 </details>
 
