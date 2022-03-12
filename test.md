@@ -33,7 +33,7 @@ Show your support and give this repo a ⭐
 5. [Contribute](https://github.com/seraph776/seraph776/blob/main/test.md#contribute)
 6. [Contact](https://github.com/seraph776/seraph776/blob/main/test.md#contact)
 7. [License](https://github.com/seraph776/seraph776/blob/main/test.md#license)
-8. [Acknowledgements](https://github.com/seraph776/seraph776/blob/main/test.md#acknowlegdements)
+8. [Acknowledgements](https://github.com/seraph776/seraph776/blob/main/test.md#acknowledgements)
    
 </details>
 
@@ -88,6 +88,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 <div align="right">
 
-[[↑] Back to top](https://github.com/seraph776/seraph776#content)
+[[↑] Back to top](https://github.com/seraph776/seraph776/blob/main/test.md#content)
 
 </div> 
