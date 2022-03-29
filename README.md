@@ -1,4 +1,4 @@
-# Hi there, I'm Seraph★776 👋
+# Hi there, I'm Seraph 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
 [![GitHub User's stars](https://img.shields.io/github/stars/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
