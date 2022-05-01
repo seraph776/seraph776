@@ -43,7 +43,6 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
 
   
 ## Languages and Tools
-
   
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" height="30" width="30"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" height="30" width="30"/> </a>
