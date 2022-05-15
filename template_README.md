@@ -16,7 +16,7 @@
   
 ### Sub-Title  
   
-🔎[View Demo](https://github.com/seraph776/seraph776/blob/main/test.md#screenshot) · 🐛[Report Bug](https://github.com/seraph776/README-Template/issues) ·📫 [Contact me](https://github.com/seraph776/CodeCrypt776#contact)  
+🔎[View Demo](https://github.com/seraph776/seraph776/blob/main/test.md#screenshot) · 🪳[Report Bugz](https://github.com/seraph776/README-Template/issues) ·📫 [Contact me](mailto:seraph776@gmail.com)  
  
 Show your support and give this repo a ⭐ 
 
