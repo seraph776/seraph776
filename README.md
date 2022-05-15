@@ -3,7 +3,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
 [![GitHub User's stars](https://img.shields.io/github/stars/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
 [![Gmail](https://img.shields.io/badge/-blue?&labelColor=grey&label=Gmail&logo=gmail&logoColor=white&style=for-the-badge)]((mailto:seraph776@gmail.com)) 
-[![Website](https://img.shields.io/website?label=Codecrypt76.com&logo=appveyor&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fcodecrypt76.com)](#)
 
 <!--
 
@@ -138,5 +137,6 @@ Here are some ideas to get you started:
 
 
 <a href="https://twitter.com/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"/></a>
+[![Website](https://img.shields.io/website?label=Codecrypt76.com&logo=appveyor&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fcodecrypt76.com)](#)
 
 -->
