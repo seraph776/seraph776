@@ -118,7 +118,6 @@ Which compels me to Learn something New every day. Some of my interests include:
 
 -->
 
-
 <!--
 
 **seraph776/seraph776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
