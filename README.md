@@ -134,7 +134,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🤝🙂
 
-
 <a href="https://twitter.com/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"/></a>
 [![Website](https://img.shields.io/website?label=Codecrypt76.com&logo=appveyor&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fcodecrypt76.com)](#)
 
