@@ -24,18 +24,9 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
 
  --> 
 
- ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
 <a href="https://www.linkedin.com/in/wmassey776/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"/></a>
-
-<a href="https://www.youtube.com/channel/UCubvql5Iyb2wc5jMWISDieA/playlists"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="30"/></a>
-
-<a href="https://dev.to/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="30" width="30"/></a>
-
-<a href="https://stackoverflow.com/users/14462728/seraph"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="30"/></a>
-<a href="https://www.codecademy.com/profiles/Seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg" height="30" width="30"/></a>
-<a href="https://www.reddit.com/user/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" height="30" width="30"/></a>
-<a href="https://discordapp.com/users/766170036364247073"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="30"/></a>
+<a href="https://www.youtube.com/channel/UCubvql5Iyb2wc5jMWISDieA/playlists"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="30"/></a><a href="https://dev.to/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="30" width="30"/></a> <a href="https://stackoverflow.com/users/14462728/seraph"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="30"/></a> <a href="https://www.codecademy.com/profiles/Seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg" height="30" width="30"/></a> <a href="https://www.reddit.com/user/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" height="30" width="30"/></a> <a href="https://discordapp.com/users/766170036364247073"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="30"/></a>
 
 
 ## Where to find me
