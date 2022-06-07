@@ -12,13 +12,15 @@
 - 🤝 I’m looking to collaborate on Python Projects
 - 💬 Ask me about: Tutoring, Code Review, and Project Collaboration
 - 📫 You can reach me at [seraph@codecrypt76.com](mailto:seraph@codecrypt76.com)    
-- ⚡ Fun Fact: I love to draw and play chess! ♞
-➡️ Checkout my [portfolio](https://github.com/seraph776/CodeCrypt776).
+- ⚡ Fun Fact: I love to draw and play chess! ♞   
+- ➡️ Checkout my [portfolio](https://github.com/seraph776/CodeCrypt776).
 
+
+<!--
 
 I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scraping, social media mining, and data visualization using Python programming. I have a strong working knowledge of algorithms, data structures, object-oriented programming and cybersecurity concepts. I am an experienced problem-solver capable of working independently or in a team environment.<br> 
 
-<!--
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/seraph776?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/seraph776)
 
