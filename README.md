@@ -4,7 +4,6 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
 [![Gmail](https://img.shields.io/badge/-blue?&labelColor=grey&label=Gmail&logo=gmail&logoColor=white&style=for-the-badge)]((mailto:seraph776@gmail.com)) 
 
-<!--
 
 ## About Me
   
@@ -18,15 +17,21 @@
 
 
 I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scraping, social media mining, and data visualization using Python programming. I have a strong working knowledge of algorithms, data structures, object-oriented programming and cybersecurity concepts. I am an experienced problem-solver capable of working independently or in a team environment.<br> 
+
+<!--
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/seraph776?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/seraph776)
 
--->
+ --> 
 
  ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/wmassey776/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"/></a>
+
 <a href="https://www.youtube.com/channel/UCubvql5Iyb2wc5jMWISDieA/playlists"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="30"/></a>
+
 <a href="https://dev.to/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="30" width="30"/></a>
+
 <a href="https://stackoverflow.com/users/14462728/seraph"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="30"/></a>
 <a href="https://www.codecademy.com/profiles/Seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg" height="30" width="30"/></a>
 <a href="https://www.reddit.com/user/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" height="30" width="30"/></a>
@@ -59,7 +64,8 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
  </div> 
 
 
-  
+
+
 ## GitHub Stats
 
 <div align="center">
