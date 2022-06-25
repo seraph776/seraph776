@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
 [![GitHub User's stars](https://img.shields.io/github/stars/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
-[![Gmail](https://img.shields.io/badge/-blue?&labelColor=grey&label=Gmail&logo=gmail&logoColor=white&style=for-the-badge)]((mailto:seraph776@gmail.com)) 
+[![Gmail](https://img.shields.io/badge/-blue?&labelColor=grey&label=Gmail&logo=gmail&logoColor=white&style=for-the-badge)]((mailto:seraph776@gmail.com))    
 
 
 ## About Me
@@ -14,6 +14,7 @@
 - 📫 You can reach me at [seraph@codecrypt76.com](mailto:seraph@codecrypt76.com)    
 - ⚡ Fun Fact: I love to draw and play chess! ♞   
 - ➡️ Checkout my [portfolio](https://github.com/seraph776/CodeCrypt776).
+
 
 
 <!--
@@ -33,12 +34,11 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
 
 ## Where to find me
 
-<a href="https://www.codewars.com/users/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height="30" width="30"/></a>
+<a href="www.codewars.com/r/OynFnQ"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height="30" width="30"/></a>
 <a href="https://www.hackerrank.com/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="30"/></a>
 <a href="https://leetcode.com/seraph776/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="30"/></a>
 <a href="https://exercism.org/profiles/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" height="30" width="30"/></a>
-<a href="https://www.codechef.com/users/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/exercism.svg" height="30" width="30"/></a>
-
+<a href="https://www.codechef.com/users/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/exercism.svg" height="30" width="30"/></a><a href="www.codewars.com/r/OynFnQ"> <img src='https://www.codewars.com/users/seraph776/badges/micro' /></a> 
   
 ## Languages and Tools
   
