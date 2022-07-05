@@ -3,7 +3,7 @@
 # Project Title
 
 
-![made-with-Python](https://img.shields.io/badge/Python-800020?&logo=python&logoColor=white&labelColor=black&label=Built%20with&style=for-the-badge)
+![made-with-Python](https://img.shields.io/badge/Python-536878?&logo=python&logoColor=white&labelColor=black&label=Built%20with&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/seraph776?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/seraph776/seraph776?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/seraph776/seraph776?color=blue&style=for-the-badge)
