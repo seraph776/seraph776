@@ -34,7 +34,8 @@ I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scrap
 
 ## Where to find me
 
-<a href="www.codewars.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height="30" width="30"/></a>
+<a href="https://www.hackerrank.com/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height="30" width="30"/></a>
+
 <a href="https://www.hackerrank.com/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="30"/></a>
 <a href="https://leetcode.com/seraph776/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="30"/></a>
 <a href="https://exercism.org/profiles/seraph776"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" height="30" width="30"/></a>
