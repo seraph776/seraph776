@@ -8,7 +8,7 @@
 ## About Me
   
 - :electron: Pronouns: _El_
-- 🌱 I'm currently learning _Everything_ 
+- 🌱 I'm currently learning _Life_ 
 - 🤝 I’m looking to collaborate on Python Projects
 - 💬 Ask me about: Tutoring, Code Review, and Project Collaboration
 - 📫 You can reach me at [seraph@codecrypt76.com](mailto:seraph@codecrypt76.com)    
