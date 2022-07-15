@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning _Life_ 
 - 🤝 I’m looking to collaborate on Python Projects
 - 💬 Ask me about: Tutoring, Code Review, and Project Collaboration
-- 📫 You can reach me at [seraph@codecrypt76.com](mailto:seraph@codecrypt76.com)    
+- 📫 You can reach me at [seraph776@gmail.com](mailto:seraph@gmail.com)    
 - ⚡ Fun Fact: I love to draw and play chess! ♞   
 - ➡️ Checkout my [portfolio](https://github.com/seraph776/CodeCrypt776).
 
