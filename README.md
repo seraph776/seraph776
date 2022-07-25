@@ -9,6 +9,7 @@
 
 ## About Me
   
+I am a Code-Blooded Python Engineer and Web Developer. 
 - :electron: Pronouns: _El_
 - 🌱 I'm currently learning _Python_ 
 - 🤝 I’m looking to collaborate on any Python Projects
@@ -18,10 +19,9 @@
 - ➡️ Checkout my [portfolio](https://github.com/seraph776/CodeCrypt776).
 
 
-
 <!--
 
-I am a Code-Blooded Python Engineer and Web Developer. I specialize in web scraping, social media mining, and data visualization using Python programming. I have a strong working knowledge of algorithms, data structures, object-oriented programming and cybersecurity concepts. I am an experienced problem-solver capable of working independently or in a team environment.<br> 
+ I have a strong working knowledge of algorithms, data structures, object-oriented programming and cybersecurity concepts. I am an experienced problem-solver capable of working independently or in a team environment.<br> 
 
 
 
