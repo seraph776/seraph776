@@ -1,4 +1,6 @@
-# Hi there, I'm Seraph 👋
+# Hi there, I'm Seraph 👋!
+![image](https://raw.githubusercontent.com/seraph776/seraph776/main/assets/github-contribution-grid-snake.gif)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
 [![GitHub User's stars](https://img.shields.io/github/stars/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
@@ -8,8 +10,8 @@
 ## About Me
   
 - :electron: Pronouns: _El_
-- 🌱 I'm currently learning _Life_ 
-- 🤝 I’m looking to collaborate on Python Projects
+- 🌱 I'm currently learning _Python_ 
+- 🤝 I’m looking to collaborate on any Python Projects
 - 💬 Ask me about: Tutoring, Code Review, and Project Collaboration
 - 📫 You can reach me at [seraph776@gmail.com](mailto:seraph@gmail.com)    
 - ⚡ Fun Fact: I love to draw and play chess! ♞   
