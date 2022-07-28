@@ -24,7 +24,7 @@ I am a Code-Blooded Python Engineer and Web Developer. I consider myself a "_Stu
 - [Codecrypt76](https://github.com/seraph776/CodeCrypt776)
 
 
-## 📕 Latest Blog post
+## 📕 Latest Blog Post
 
 - [Create a Keylogger using Python](https://dev.to/seraph776/create-a-keylogger-using-python-22kg)
 - [Extract Text from PDF](https://dev.to/seraph776/extract-text-from-pdf-using-python-5flh)
