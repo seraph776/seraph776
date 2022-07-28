@@ -18,13 +18,13 @@
 - ⚡ Fun Fact: I love to draw and play chess! ♞   
 
   
-I am a Code-Blooded Python Engineer and Web Developer. I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, the more I realize, "_I know nothing_" - (`Socrates`). Which compels me to Learn something new each day. 
+I am a Code-Blooded Python Engineer and Web Developer. I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, the more I realize, "_I know nothing_ (`Socrates`)." Which compels me to Learn something new each day. 
 
-### 💼 Portfolio
+## 💼 Code Portfolio
 - [Codecrypt76](https://github.com/seraph776/CodeCrypt776)
 
 
-### 📕 Latest Blog post
+## 📕 Latest Blog post
 
 - [Create a Keylogger using Python](https://dev.to/seraph776/create-a-keylogger-using-python-22kg)
 - [Extract Text from PDF](https://dev.to/seraph776/extract-text-from-pdf-using-python-5flh)
