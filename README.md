@@ -1,4 +1,4 @@
-# Seraph 天
+# Hi there, I'm Seraph 👋!
 ![image](https://raw.githubusercontent.com/seraph776/seraph776/main/assets/github-contribution-grid-snake.gif)
 
 [![GitHub followers](https://img.shields.io/github/followers/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
