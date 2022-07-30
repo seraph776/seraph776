@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-# Hello There 👋!
+# Hello there 👋!
 
 **I am Seraph, a _code blooded_ Python programmer and Web Developer.**     
 Welcome to my GitHub, here you will find my projects, blog posts, and collaborations on open source projects. 
