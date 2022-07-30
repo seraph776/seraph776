@@ -40,7 +40,7 @@ I am a Code-Blooded Python Engineer and Web Developer. I consider myself a "_Stu
 </details>
 
 
-## 💼 Portfolio <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+## 💼 Small Projects Portfolio
 - [Codecrypt76](https://github.com/seraph776/CodeCrypt776)
 
 
@@ -54,7 +54,7 @@ I am a Code-Blooded Python Engineer and Web Developer. I consider myself a "_Stu
 
 
 
-## GitHub Stats
+## GitHub Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
 
 <details>
 <summary>My GitHub stats</summary>
