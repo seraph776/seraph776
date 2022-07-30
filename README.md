@@ -69,7 +69,7 @@ I am a Code-Blooded Python Engineer and Web Developer. I consider myself a "_Stu
 ## GitHub Stats
 
 <details>
-<summary> GitHub Stats</summary>
+<summary>My GitHub stats</summary>
 <div align="center">
 
 [![Seraph's GitHub stats](https://github-readme-stats.vercel.app/api?username=seraph776&count_private=true&title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40&show_icons=true)](https://github.com/seraph776) 
