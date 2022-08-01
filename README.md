@@ -34,8 +34,8 @@ _You can also support me financially via:_
 - 📫 You can reach me at [seraph776@gmail.com](mailto:seraph@gmail.com)    
 - ⚡ Fun Fact: I love to draw and play chess! ♞   
 
-  
-I am a Code-Blooded Python Engineer and Web Developer. I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, the more I realize, "_I know nothing_ (`Socrates`)." Which compels me to Learn something new each day. 
+
+I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, the more I realize, "_I know nothing_ (`Socrates`)." Which compels me to Learn something new each day.     
 
 </details>
 
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🤝🙂
-
+🍴, 🛏️, 🖥️, 🔁
 ## Languages and Tools
   
 
