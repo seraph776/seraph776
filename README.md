@@ -41,13 +41,14 @@ I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, th
 
 
 ## 💼 Small Projects Portfolio
+- [PasswordJinn](https://github.com/seraph776/PasswordJinn)
 - [Codecrypt76](https://github.com/seraph776/CodeCrypt776)
 
 
 ## 📕 Blog Post
 
 - [Create a Keylogger using Python](https://dev.to/seraph776/create-a-keylogger-using-python-22kg)
-- [Extract Text from PDF](https://dev.to/seraph776/extract-text-from-pdf-using-python-5flh)
+- [Validate Credit Card Numbers using Python](https://dev.to/seraph776/validate-credit-card-numbers-using-python-37j9)
 
 
 
