@@ -41,8 +41,9 @@ I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, th
 
 
 ## 💼 Small Projects Portfolio
-- [PasswordJinn](https://github.com/seraph776/PasswordJinn)
-- [Codecrypt76](https://github.com/seraph776/CodeCrypt776)
+- [PasswordJinn](https://github.com/seraph776/PasswordJinn) - A strong secure password generator
+- [Russian Roulette](https://github.com/seraph776/russian_roulette) - A command line interface game of Russian Roulette
+- [Codecrypt76](https://github.com/seraph776/CodeCrypt776) - A cache of small Python projects- 
 
 
 ## 📕 Blog Post
