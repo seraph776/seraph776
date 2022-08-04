@@ -27,12 +27,12 @@ _You can also support me financially via:_
 <summary> More about me </summary>
 
 
-- :electron: Pronouns: _El_
-- 🌱 I'm currently learning _Python_ 
-- 🤝 I’m looking to collaborate on any Python Projects
-- 💬 Ask me about: Tutoring, Code Review, and Project Collaboration
-- 📫 You can reach me at [seraph776@gmail.com](mailto:seraph@gmail.com)    
-- ⚡ Fun Fact: I love to draw and play chess! ♞   
+- :electron: **Pronouns**: _El_
+- 🌱 **I'm currently learning**: Python 
+- 🤝 **I’m looking to**: collaborate on any Python Projects
+- 💬 **Ask me about**: Tutoring, Code Review, and Project Collaboration
+- 📫 **You can reach me at**: [seraph776@gmail.com](mailto:seraph@gmail.com)    
+- ⚡ **Fun Fact**: I love to draw and play chess! ♞   
 
 
 I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, the more I realize, "_I know nothing_ (`Socrates`)." Which compels me to Learn something new each day.     
@@ -74,7 +74,9 @@ I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, th
 
 
 
+## License
 
+[MIT](https://github.com/seraph776/seraph776/blob/main/LICENSE) © [Seraph 天](https://github.com/seraph776) 
 
 <!--
 
