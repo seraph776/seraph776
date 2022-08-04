@@ -40,21 +40,6 @@ I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, th
 </details>
 
 
-## 💼 Small Projects Portfolio
-- [PasswordJinn](https://github.com/seraph776/PasswordJinn) - _A strong secure password generator_
-- [Russian Roulette](https://github.com/seraph776/russian_roulette) - _A command line interface game of Russian Roulette_
-- [Codecrypt76](https://github.com/seraph776/CodeCrypt776) - _A cache of small Python projects_ 
-
-
-## 📕 Blog Post
-
-- [Create a Keylogger using Python](https://dev.to/seraph776/create-a-keylogger-using-python-22kg)
-- [Validate Credit Card Numbers using Python](https://dev.to/seraph776/validate-credit-card-numbers-using-python-37j9)
-
-
-
-
-
 
 ## GitHub Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
 
@@ -136,5 +121,17 @@ I have a strong working knowledge of algorithms, data structures, object-oriente
 [![GitHub User's stars](https://img.shields.io/github/stars/seraph776?logo=github&style=for-the-badge)](https://github.com/seraph776)
 [![Gmail](https://img.shields.io/badge/-blue?&labelColor=grey&label=Gmail&logo=gmail&logoColor=white&style=for-the-badge)](mailto:seraph776@gmail.com)
 [![Website](https://img.shields.io/website?label=Codecrypt76.com&logo=appveyor&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fcodecrypt76.com)](#)
+
+
+## 💼 Small Projects Portfolio
+- [PasswordJinn](https://github.com/seraph776/PasswordJinn) - _A strong secure password generator_
+- [Russian Roulette](https://github.com/seraph776/russian_roulette) - _A command line interface game of Russian Roulette_
+- [Codecrypt76](https://github.com/seraph776/CodeCrypt776) - _A cache of small Python projects_ 
+
+
+## 📕 Blog Post
+
+- [Create a Keylogger using Python](https://dev.to/seraph776/create-a-keylogger-using-python-22kg)
+- [Validate Credit Card Numbers using Python](https://dev.to/seraph776/validate-credit-card-numbers-using-python-37j9)
 
 -->
