@@ -35,7 +35,7 @@ _You can also support me financially via:_
 - ⚡ **Fun Fact**: I love to draw and play chess! ♞   
 
 
-I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, the more I realize, "_I know nothing_ (`Socrates`)." As a onsequence, I am compeled to continously _Learn All the Days of my Life_!
+I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, the more I realize, "_I know nothing_ (`Socrates`)." As a consequence, I am compeled to continously _Learn All the Days of my Life_!
 
 </details>
 
