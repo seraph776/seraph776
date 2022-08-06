@@ -20,7 +20,7 @@ _You can also support me financially via:_
 [![Paypal](https://img.shields.io/badge/Paypal-black?&logo=paypal&logoColor=white&labelColor=black&style=for-the-badge)](#)
 [![Coinbase](https://img.shields.io/badge/Coinbase-black?&logo=coinbase&logoColor=white&labelColor=black&style=for-the-badge)](#)
 [![Patreon](https://img.shields.io/badge/Patreon-black?&logo=patreon&logoColor=white&labelColor=black&style=for-the-badge)](#)  
-[![Buy me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-black?&logo=buymeacoffee&logoColor=white&labelColor=black&style=for-the-badge)](#)
+[![Buy me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-black?&logo=buymeacoffee&logoColor=white&labelColor=black&style=for-the-badge)](https://www.buymeacoffee.com/seraph776)
 </div>
 
 <details>
