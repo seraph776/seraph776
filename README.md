@@ -28,12 +28,14 @@ _You can also support me financially via:_
 
 
 - :electron: **Pronouns**: _El_
-- 🌱 **I'm currently learning**: Python 
-- 🤝 **I’m looking to**: collaborate on any Python Projects
-- 💬 **Ask me about**: Tutoring, Code Review, and Project Collaboration
-- 📫 **You can reach me at**: [seraph776@gmail.com](mailto:seraph@gmail.com)    
+- 🔱 **Skills**: Python, Git, HTML5, CSS3, Javascript, SQL.
+- 🌱 **I'm currently creating**: Free Python programming, and Cybersecurity Awareness content on my [website](https://codecrypt76.com/).
+- 📝 **I also post articles on**: [DEV.to](https://dev.to/seraph776).
+- 🤝 **I’m looking to**: collaborate on Python Projects.
+- 💬 **Ask me about**: Freelance Opportunties, Free Tutoring, and Project Collaboration.
+- 📫 **You can reach me at**: [admin@codecrypt76.com](mailto:admin@codecrypt76.com).
 - ⚡ **Fun Fact**: I love to draw and play chess! ♞   
-- 📝 **Additionally**: I write articles for [DEV.to](https://dev.to/seraph776)
+
 
 
 I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, the more I realize, "_I know nothing_ (`Socrates`)." As a consequence, I am compeled to continously _Learn All the Days of my Life_!
@@ -68,5 +70,5 @@ I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, th
 <!-- 
 
 [![Coinbase](https://img.shields.io/badge/Coinbase-black?&logo=coinbase&logoColor=white&labelColor=black&style=for-the-badge)](#)
-
+- 🌱 **I'm currently learning**: Python 
 --> 
