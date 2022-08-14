@@ -9,18 +9,18 @@ Welcome to my GitHub, here you will find my projects, blog posts, and collaborat
 
 _You can find me or contact me through these networks:_
 
-[![Gmail](https://img.shields.io/badge/Gmail-black?&logo=gmail&logoColor=white&labelColor=black&style=for-the-badge)](mailto:seraph776@gmail.com)
-[![DEV.to](https://img.shields.io/badge/DEV.to-black?&logo=dev.to&logoColor=white&labelColor=black&style=for-the-badge)](https://dev.to/seraph776)
-[![Discord](https://img.shields.io/badge/Discord-black?&logo=discord&logoColor=white&labelColor=black&style=for-the-badge)](https://discordapp.com/users/766170036364247073)
-[![Codewars](https://img.shields.io/badge/Codewars-black?&logo=codewars&logoColor=white&labelColor=black&style=for-the-badge)](https://www.codewars.com/r/OynFnQ)
-[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-black?&logo=stackoverflow&logoColor=white&labelColor=black&style=for-the-badge)](https://stackoverflow.com/users/14462728/seraph)
+[![codecrypt76.com](https://img.shields.io/badge/Codecrypt76.com-black?&logo=appveyor&logoColor=white&labelColor=green&style=for-the-badge)](https://codecrypt76.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-black?&logo=gmail&logoColor=white&labelColor=red&style=for-the-badge)](mailto:seraph776@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-black?&logo=twitter&logoColor=white&labelColor=blue&style=for-the-badge)](https://twitter.com/seraph776)
+[![Codewars](https://img.shields.io/badge/Codewars-black?&logo=codewars&logoColor=white&labelColor=red&style=for-the-badge)](https://www.codewars.com/r/OynFnQ)
+[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-black?&logo=stackoverflow&logoColor=white&labelColor=orange&style=for-the-badge)](https://stackoverflow.com/users/14462728/seraph)
+[![Discord](https://img.shields.io/badge/Discord-black?&logo=discord&logoColor=white&labelColor=purple&style=for-the-badge)](https://discordapp.com/users/766170036364247073)
 
 _You can also support me financially via:_
 
-[![Paypal](https://img.shields.io/badge/Paypal-black?&logo=paypal&logoColor=white&labelColor=black&style=for-the-badge)](#)
-[![Coinbase](https://img.shields.io/badge/Coinbase-black?&logo=coinbase&logoColor=white&labelColor=black&style=for-the-badge)](#)
-[![Patreon](https://img.shields.io/badge/Patreon-black?&logo=patreon&logoColor=white&labelColor=black&style=for-the-badge)](#)  
-[![Buy me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-black?&logo=buymeacoffee&logoColor=white&labelColor=black&style=for-the-badge)](https://www.buymeacoffee.com/seraph776)
+[![Paypal](https://img.shields.io/badge/Paypal-black?&logo=paypal&logoColor=blue&labelColor=black&style=flat)](https://www.subscribestar.com/seraph776)
+[![Patreon](https://img.shields.io/badge/Patreon-black?&logo=patreon&logoColor=orange&labelColor=black&style=flat)](https://www.patreon.com/seraph776)
+[![Buy me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-black?&logo=buymeacoffee&logoColor=yellow&labelColor=black&style=flat)](https://www.buymeacoffee.com/seraph776)
 </div>
 
 <details>
@@ -33,6 +33,7 @@ _You can also support me financially via:_
 - 💬 **Ask me about**: Tutoring, Code Review, and Project Collaboration
 - 📫 **You can reach me at**: [seraph776@gmail.com](mailto:seraph@gmail.com)    
 - ⚡ **Fun Fact**: I love to draw and play chess! ♞   
+- 📝 **Additionally**: I write articles for [DEV.to](https://dev.to/seraph776)
 
 
 I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, the more I realize, "_I know nothing_ (`Socrates`)." As a consequence, I am compeled to continously _Learn All the Days of my Life_!
@@ -62,3 +63,10 @@ I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, th
 ## License
 
 [MIT](https://github.com/seraph776/seraph776/blob/main/LICENSE) © [Seraph 天](https://github.com/seraph776) 
+
+
+<!-- 
+
+[![Coinbase](https://img.shields.io/badge/Coinbase-black?&logo=coinbase&logoColor=white&labelColor=black&style=for-the-badge)](#)
+
+--> 
