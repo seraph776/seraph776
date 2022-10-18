@@ -9,9 +9,9 @@ Welcome to my GitHub, here you will find my projects, blog posts, and collaborat
 
 _You can find me or contact me through these networks:_
 
-[![codecrypt76.com](https://img.shields.io/badge/Codecrypt76.com-black?&logo=appveyor&logoColor=white&labelColor=green&style=for-the-badge)](https://codecrypt76.com/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-black?&logo=gmail&logoColor=white&labelColor=red&style=for-the-badge)](mailto:seraph776@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-black?&logo=twitter&logoColor=white&labelColor=blue&style=for-the-badge)](https://twitter.com/seraph776)
+[![Twitter](https://img.shields.io/badge/Twitter-black?&logo=twitter&logoColor=white&labelColor=blue&style=for-the-badge)](https://github.com/seraph776)
 [![Codewars](https://img.shields.io/badge/Codewars-black?&logo=codewars&logoColor=white&labelColor=red&style=for-the-badge)](https://www.codewars.com/users/seraph776)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-black?&logo=stackoverflow&logoColor=white&labelColor=orange&style=for-the-badge)](https://stackoverflow.com/users/14462728/seraph)
 [![Discord](https://img.shields.io/badge/Discord-black?&logo=discord&logoColor=white&labelColor=purple&style=for-the-badge)](https://discordapp.com/users/766170036364247073)
@@ -70,4 +70,7 @@ I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, th
 
 [![Coinbase](https://img.shields.io/badge/Coinbase-black?&logo=coinbase&logoColor=white&labelColor=black&style=for-the-badge)](#)
 - 🌱 **I'm currently learning**: Python 
+
+[![codecrypt76.com](https://img.shields.io/badge/Codecrypt76.com-black?&logo=appveyor&logoColor=white&labelColor=green&style=for-the-badge)](https://codecrypt76.com/)
+
 --> 
