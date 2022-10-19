@@ -38,3 +38,23 @@ This project is [Public Domain](https://fairuse.stanford.edu/overview/public-dom
 
     - Add proper headings and documentation in your Jupyter notebook.
     - (Optional) Write a blog post about your project and share it online.
+
+
+---
+
+
+1. **Use the requests library to download web pages from example.com.**
+    - Inspect the website's HTML source and identify the right URLs to download.
+    - Download and save web pages locally using the `requests` library.
+    - Create a function to automate downloading for different topics/search queries.
+2. **Use Beautiful Soup to parse and extract information.**
+    - Parse and explore the structure of downloaded web pages using Beautiful soup.
+    - Collect all links to detail pages of each product
+    - Create functions to extract from the page into lists and dictionaries.
+    - (Optional) Use a REST API to acquire additional information if required.
+3. **Write scraped data to a CSV file.**
+    - Create functions for the end-to-end process of downloading, parsing, and saving CSVs.
+    - Execute the function with different inputs to create a dataset of CSV files.
+4. **Document and share my work**
+    - Add proper headings and documentation to source code.
+    - (Optional) Write a blog post about the project and share it online
