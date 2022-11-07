@@ -63,7 +63,7 @@ I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, th
 
 ## License
 
-[MIT](https://github.com/seraph776/seraph776/blob/main/LICENSE) © [Seraph 天](https://github.com/seraph776) 
+[MIT](https://github.com/seraph776/seraph776/blob/main/LICENSE) © [Seraph★776](https://github.com/seraph776) 
 
 
 <!-- 
