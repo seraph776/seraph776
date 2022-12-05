@@ -18,8 +18,10 @@ _You can find me or contact me through these networks:_
 
 _You can also support me financially via:_
 
-[![Paypal](https://img.shields.io/badge/Paypal-black?&logo=paypal&logoColor=blue&labelColor=black&style=flat)](https://www.paypal.com/donate/?hosted_button_id=MUDMPY9CBMRS2)
-[![Buy me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-black?&logo=buymeacoffee&logoColor=yellow&labelColor=black&style=flat)](https://www.buymeacoffee.com/seraph776)
+  [![Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee!-orange?logo=Buymeacoffee&logoColor=yellow&labelColor=black&style=flat)](https://www.buymeacoffee.com/seraph776)
+
+  
+  
 </div>
 
 <details>
@@ -35,9 +37,6 @@ _You can also support me financially via:_
 - 📫 **You can reach me at**: [admin@codecrypt76.com](mailto:admin@codecrypt76.com).
 - ⚡ **Fun Fact**: I love to draw and play chess! ♞   
 
-
-
-I consider myself a "_Student of Life, for Life._" Meaning, the more I Learn, the more I realize, "_I know nothing_ (`Socrates`)." As a consequence, I am compeled to continously _Learn All the Days of my Life_!
 
 </details>
 
