@@ -5,7 +5,7 @@
 # Hello there 👋!
 
 **I am Seraph, a _code blooded_ Python programmer and Web Developer.**     
-Welcome to my GitHub, here you will find my projects, blog posts, and collaborations on open source projects. 
+Welcome to my GitHub, here you will find my projects, and collaborations on open source projects. 
 
 _You can find me or contact me through these networks:_
 
