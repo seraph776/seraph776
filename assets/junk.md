@@ -1,6 +1,9 @@
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=seraph776.QuickStartTemplate&color=black&labelColor=grey&logo=github&style=for-the-badge)
 
+[![Coffee](https://img.shields.io/badge/Support-Buy%20me%20a%20coffee!-orange?logo=Buymeacoffee&logoColor=yellow&labelColor=black&style=flat)](https://www.buymeacoffee.com/seraph776)
+
+
 This project is [Public Domain](https://fairuse.stanford.edu/overview/public-domain/welcome/) and licensed under the [MIT License](https://github.com/seraph776/QuickStartTemplate/blob/main/LICENSE) 
 
 
