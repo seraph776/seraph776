@@ -60,6 +60,8 @@ _You can find me or contact me through these networks:_
 <summary> Support my work </summary>
 
 All donations help fund the continued development of new content.
+ 
+<div align="left">
 
 
 | Coin                                                                                                                        | Address                                    |
@@ -71,6 +73,8 @@ All donations help fund the continued development of new content.
   
 </details>  
 
+ <div
+ 
 ## License
 
 [MIT](https://github.com/seraph776/seraph776/blob/main/LICENSE) © [Seraph★776](https://github.com/seraph776) 
