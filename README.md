@@ -8,6 +8,7 @@
 Welcome to my GitHub, here you will find my projects, and collaborations on open source projects. 
 
 
+ </div>
 
 ## About Me
 <details>
@@ -88,6 +89,5 @@ _You can find me or contact me through these networks:_
 [![Codewars](https://img.shields.io/badge/Codewars-black?&logo=codewars&logoColor=white&labelColor=red&style=for-the-badge)](https://www.codewars.com/users/seraph776)
 [![Discord](https://img.shields.io/badge/Discord-black?&logo=discord&logoColor=white&labelColor=purple&style=for-the-badge)](https://discordapp.com/users/766170036364247073)
 
- </div>
 
 --> 
