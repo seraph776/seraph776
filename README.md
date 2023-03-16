@@ -7,16 +7,6 @@
 **I am Seraph, a _code blooded_ Python programmer and Web Developer.**     
 Welcome to my GitHub, here you will find my projects, and collaborations on open source projects. 
 
-_You can find me or contact me through these networks:_
-
-
-[![Gmail](https://img.shields.io/badge/Gmail-black?&logo=gmail&logoColor=white&labelColor=red&style=for-the-badge)](mailto:seraph776@gmail.com)
-[![Freelancer](https://img.shields.io/badge/Freelancer-black?&logo=freelancer&logoColor=white&labelColor=blue&style=for-the-badge)](https://www.freelancer.com/u/seraph776)
-[![Fiver](https://img.shields.io/badge/Fiverr-black?&logo=fiverr&logoColor=white&labelColor=green&style=for-the-badge)](https://www.fiverr.com/seraph776)
-[![Codewars](https://img.shields.io/badge/Codewars-black?&logo=codewars&logoColor=white&labelColor=red&style=for-the-badge)](https://www.codewars.com/users/seraph776)
-[![Discord](https://img.shields.io/badge/Discord-black?&logo=discord&logoColor=white&labelColor=purple&style=for-the-badge)](https://discordapp.com/users/766170036364247073)
-
- </div>
 
 
 ## About Me
@@ -86,5 +76,18 @@ All donations help fund the continued development of new content.
 - 🌱 **I'm currently learning**: Python 
 
 [![codecrypt76.com](https://img.shields.io/badge/Codecrypt76.com-black?&logo=appveyor&logoColor=white&labelColor=green&style=for-the-badge)](https://codecrypt76.com/)
+
+
+
+_You can find me or contact me through these networks:_
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-black?&logo=gmail&logoColor=white&labelColor=red&style=for-the-badge)](mailto:seraph776@gmail.com)
+[![Freelancer](https://img.shields.io/badge/Freelancer-black?&logo=freelancer&logoColor=white&labelColor=blue&style=for-the-badge)](https://www.freelancer.com/u/seraph776)
+[![Fiver](https://img.shields.io/badge/Fiverr-black?&logo=fiverr&logoColor=white&labelColor=green&style=for-the-badge)](https://www.fiverr.com/seraph776)
+[![Codewars](https://img.shields.io/badge/Codewars-black?&logo=codewars&logoColor=white&labelColor=red&style=for-the-badge)](https://www.codewars.com/users/seraph776)
+[![Discord](https://img.shields.io/badge/Discord-black?&logo=discord&logoColor=white&labelColor=purple&style=for-the-badge)](https://discordapp.com/users/766170036364247073)
+
+ </div>
 
 --> 
