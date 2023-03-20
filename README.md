@@ -8,8 +8,19 @@
 Welcome to my GitHub, here you will find my projects, and collaborations on open source projects. 
 
 
- </div>
+ 
 
+_You can find me or contact me through these networks:_ 
+
+
+[![Codewars](https://img.shields.io/badge/Codewars-black?&logo=codewars&logoColor=white&labelColor=red&style=for-the-badge)](https://www.codewars.com/users/seraph776)
+[![Hackerrank](https://img.shields.io/badge/hackerrank-black?&logo=hackerrank&logoColor=white&labelColor=brightgreen&style=for-the-badge)](https://www.hackerrank.com/seraph776)
+[![Codechef](https://img.shields.io/badge/Codechef-black?&logo=codechef&logoColor=white&labelColor=704f3a&style=for-the-badge)](https://www.codechef.com/users/seraph776)
+[![Discord](https://img.shields.io/badge/Discord-black?&logo=discord&logoColor=white&labelColor=purple&style=for-the-badge)](https://discordapp.com/users/766170036364247073)
+
+ </div>
+ 
+ 
 ## About Me
 <details>
 <summary> More about me </summary>
@@ -73,21 +84,16 @@ All donations help fund the continued development of new content.
 
 <!-- 
 
+ [![Gmail](https://img.shields.io/badge/Gmail-black?&logo=gmail&logoColor=white&labelColor=red&style=for-the-badge)](mailto:seraph776@gmail.com)
+ 
 [![Coinbase](https://img.shields.io/badge/Coinbase-black?&logo=coinbase&logoColor=white&labelColor=black&style=for-the-badge)](#)
 - 🌱 **I'm currently learning**: Python 
 
 [![codecrypt76.com](https://img.shields.io/badge/Codecrypt76.com-black?&logo=appveyor&logoColor=white&labelColor=green&style=for-the-badge)](https://codecrypt76.com/)
 
 
-
-_You can find me or contact me through these networks:_
-
-
-[![Gmail](https://img.shields.io/badge/Gmail-black?&logo=gmail&logoColor=white&labelColor=red&style=for-the-badge)](mailto:seraph776@gmail.com)
 [![Freelancer](https://img.shields.io/badge/Freelancer-black?&logo=freelancer&logoColor=white&labelColor=blue&style=for-the-badge)](https://www.freelancer.com/u/seraph776)
 [![Fiver](https://img.shields.io/badge/Fiverr-black?&logo=fiverr&logoColor=white&labelColor=green&style=for-the-badge)](https://www.fiverr.com/seraph776)
-[![Codewars](https://img.shields.io/badge/Codewars-black?&logo=codewars&logoColor=white&labelColor=red&style=for-the-badge)](https://www.codewars.com/users/seraph776)
-[![Discord](https://img.shields.io/badge/Discord-black?&logo=discord&logoColor=white&labelColor=purple&style=for-the-badge)](https://discordapp.com/users/766170036364247073)
 
 
 --> 
