@@ -17,6 +17,7 @@ _You can find me or contact me through these networks:_
 [![Hackerrank](https://img.shields.io/badge/hackerrank-black?&logo=hackerrank&logoColor=white&labelColor=brightgreen&style=for-the-badge)](https://www.hackerrank.com/seraph776)
 [![Codechef](https://img.shields.io/badge/Codechef-black?&logo=codechef&logoColor=white&labelColor=704f3a&style=for-the-badge)](https://www.codechef.com/users/seraph776)
 [![Discord](https://img.shields.io/badge/Discord-black?&logo=discord&logoColor=white&labelColor=purple&style=for-the-badge)](https://discordapp.com/users/766170036364247073)
+[![Twitter](https://img.shields.io/badge/Twitter-black?&logo=twitter&logoColor=white&labelColor=blue&style=for-the-badge)](https://twitter.com/seraph776)
 
  </div>
  
@@ -26,12 +27,12 @@ _You can find me or contact me through these networks:_
 <summary> More about me </summary>
 
 
-- :electron: **Pronouns**: _El_
+- :electron: **Pronouns**: _El,  El Shaddai, Elohim_
 - 🔱 **Skills**: Python, Git, HTML5, CSS3, Javascript, SQL.
 - 🌱 **I'm currently creating**: Free Python programming, and Cybersecurity Awareness content on my [website](https://codecrypt76.com/).
 - 📝 **I also post articles on**: [DEV.to](https://dev.to/seraph776).
 - 🤝 **I’m looking to**: collaborate on Python Projects.
-- 💬 **Ask me about**: Freelance Opportunties, Free Tutoring, and Project Collaboration.
+- 💬 **Ask me about**: Freelance Opportunties, and Project Collaboration.
 - 📫 **You can reach me at**: [admin@codecrypt76.com](mailto:admin@codecrypt76.com).
 - ⚡ **Fun Fact**: I love to draw and play chess! ♞   
 
