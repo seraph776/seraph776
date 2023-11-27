@@ -25,7 +25,7 @@ _You can find me or contact me through these networks:_
 <details>
 <summary> More about me </summary>
 
-
+- :electron: Pronouns: _El, El Shadia, Elohim_
 - 🔱 **Skills**: Python, Git, HTML5, CSS3, Javascript, SQL.
 - 🌱 **I'm currently creating**: Free Python programming, and Cybersecurity Awareness content on my [website](https://codecrypt76.com/).
 - 📝 **I also post articles on**: [DEV.to](https://dev.to/seraph776).
